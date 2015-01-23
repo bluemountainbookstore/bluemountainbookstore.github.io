@@ -19,7 +19,7 @@ I pondered deeply, then, over the adventures of the jungle. And after some
 work with a colored pencil I succeeded in making my ﬁrst drawing. 
 My Drawing Number One. It looked like this:
 
-![Drawing Number One]({{ site.url }}/images/sticker-mule.jpg)
+![Drawing Number One]({{ site.url }}/images/book_mountain.png)
 
 I showed my masterpiece to the grown-ups, and asked them whether the
 drawing frightened them.
