@@ -6,4 +6,9 @@ categories: articles
 image:
         feature: interior_1.jpg
 ---
-Here's a first post.
+Here's a pretty picture.
+
+<figure>
+        <img src="/images/hazel_dignified.jpg">
+        <figcaption>A dignified Hazel.</figcaption>
+</figure> 
