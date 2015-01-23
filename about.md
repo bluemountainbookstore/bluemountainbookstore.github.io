@@ -4,7 +4,7 @@ permalink: /about/index.html
 title: About Blue Mountain Bookstore
 description: Blue Mountain Bookstore is an independent used bookstore located in Union, Oregon.
 image:
-  feature: soft-trees.jpg
+  feature: exterior_right.jpg
 ---
 
 ### The Name
