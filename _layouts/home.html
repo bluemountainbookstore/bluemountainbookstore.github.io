@@ -4,9 +4,15 @@
         <section class="article archive">
           <div class="overlay"></div>
           <div class="featured-image" style="background-image: url({{ site.url }}/images/exterior_left.jpg)"></div>
-          <article class="archive-wrap">
+          <article class="archive-wrap post">
+              <header class="post-header">
+                 <hgroup>
+                    <h1>{{page.title}}</h1>
+                    <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
+                 </hgroup>
+              </header>
               <ol class="post-list">
-                 <lh><h2><span class="bb">{{ page.title }}</span></h2></lh>
+                 <lh><h2><span class="bb">Recent Posts</span></h2></lh>
                   {% for post in site.posts %}
                   <li>
                     <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">

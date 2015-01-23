@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Recent Posts
+title: Blue Mountain Bookstore
 image:
   feature: typewriter.jpg
 ---
