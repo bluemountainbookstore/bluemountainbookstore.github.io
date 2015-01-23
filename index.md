@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blue Mountain Bookstore
-tagline: Fearlessly independent
+tagline: (Site under construction)
 ---
 {% include JB/setup %}
 
