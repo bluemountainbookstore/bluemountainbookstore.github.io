@@ -16,6 +16,8 @@ author :
   github : bluemountainbookstore
   twitter : username
   feedburner : feedname
+business :
+  name : Blue Mountain Bookstore
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
