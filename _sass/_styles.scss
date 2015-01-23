@@ -351,7 +351,11 @@ header.site-header nav {
     margin: 0 auto;
     float: none;
     // padding-top: 140px;
-    
+
+    .post-header hgroup h1 {
+        font-style: italic;
+    }
+
     // Post Listing
     .post-list {
         list-style-type: none;
