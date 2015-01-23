@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Blue Mountain Bookstore
+tagline: Fearlessly independent
 ---
 {% include JB/setup %}
 
