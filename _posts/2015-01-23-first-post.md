@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Hello, World
 description: "A first post."
 categories: articles
 image:
