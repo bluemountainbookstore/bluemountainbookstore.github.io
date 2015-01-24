@@ -20,3 +20,4 @@ image:
     Blue Mountain Bookstore
     PO Box 872
     Union, OR  97883
+<p>
