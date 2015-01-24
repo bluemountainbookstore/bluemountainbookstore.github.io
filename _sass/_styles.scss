@@ -576,7 +576,7 @@ footer {
         display: block;
         margin: 0 auto;
     }
-    
+
     small {
         font-size: ($fs6);
         text-align: center;
@@ -651,6 +651,10 @@ footer {
             }
         }
     }
+}
+
+.no-news {
+    height: 30px;
 }
 
 .disqus {
