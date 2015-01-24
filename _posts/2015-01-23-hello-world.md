@@ -9,7 +9,7 @@ image:
 
 > What I say is, a town isn't a town without a bookstore. It may call itself a town, but unless it's got a bookstore it knows it's not fooling a soul.
 >
->> -- Neil Gaiman, **American Gods**
+>> -- Neil Gaiman, _American Gods_
 
 Here's a pretty picture.
 
