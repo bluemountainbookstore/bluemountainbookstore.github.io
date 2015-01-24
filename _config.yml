@@ -32,7 +32,7 @@ JB:
     facebook:
       appid: 1593142297566173
       num_posts: 5
-      width: 580
+      width: 400
       colorscheme: light
 
 # Links to include in top navigation
