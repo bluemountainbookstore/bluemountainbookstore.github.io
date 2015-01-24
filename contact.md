@@ -16,7 +16,7 @@ image:
     306 S Main Street
     Union, OR  97883
 
-### Letters, Postcards, Packages
+### Mail
     Blue Mountain Bookstore
     PO Box 872
     Union, OR  97883
