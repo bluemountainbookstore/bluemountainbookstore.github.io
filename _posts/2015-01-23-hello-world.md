@@ -1,11 +1,16 @@
 ---
 layout: post
 title: Hello, World
-description: "The first post."
+description: "A bookstore is coming soon."
 categories: articles
 image:
         feature: interior_1.jpg
 ---
+
+> What I say is, a town isn't a town without a bookstore. It may call itself a town, but unless it's got a bookstore it knows it's not fooling a soul.
+>
+>> -- Neil Gaiman, **American Gods**
+
 Here's a pretty picture.
 
 <figure>
