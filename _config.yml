@@ -20,6 +20,21 @@ tools:
   standards:      "HTML, SCSS, Jekyll"
   software:       "git"
 
+JB:
+  comments:
+    provider: facebook
+    disqus:
+      short_name: jekyllbootstrap
+    livefyre:
+      site_id: 123
+    intensedebate:
+      account: 123abc
+    facebook:
+      appid: 1593142297566173
+      num_posts: 5
+      width: 580
+      colorscheme: light
+
 # Links to include in top navigation
 # For external links add external: true
 links:

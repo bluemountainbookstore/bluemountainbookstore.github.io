@@ -3,6 +3,7 @@ layout: post
 title: Hello, World
 description: "A bookstore is coming soon."
 categories: articles
+coments: true
 image:
         feature: interior_1.jpg
 ---
