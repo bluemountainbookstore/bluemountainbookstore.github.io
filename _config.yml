@@ -9,10 +9,9 @@ owner:
   bio:            "Proprietor"
   email:          todd@bluemountainbookstore.com
   twitter:        bluemtnbooks 
+  facebook:       bluemtnbookstore
   github:         bluemountainbookstore
-  disqus:         todo
   location:       "Union, OR"
-  # Plug in disqus and twitter usernames!
 
 business:
   name:           Blue Mountain Bookstore
