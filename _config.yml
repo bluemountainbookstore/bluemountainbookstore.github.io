@@ -49,7 +49,7 @@ JB:
     provider : all
     twitter :
       size :
-      via :
+      via : bluemtnbooks
       count :
     facebook :
       appid : 1593142297566173
