@@ -1,0 +1,11 @@
+name: Fiction
+books:
+  - title: The Great Gatsby
+    author: F. Scott Fitzgerald
+    binding: hardcover
+    year: 1985
+    publisher: 
+
+  - title: The Sound and the Fury
+    author: William Faulkner
+    binding: paperback
