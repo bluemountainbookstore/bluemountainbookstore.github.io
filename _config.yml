@@ -57,10 +57,6 @@ JB:
       font :
       faces : false
       width : 90
-    googleplus :
-      size : medium
-      width :
-      annotation : bubble
 
 # Links to include in top navigation
 # For external links add external: true
