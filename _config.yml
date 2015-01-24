@@ -66,6 +66,8 @@ JB:
 links:
   - title: News
     url: /news
+  - title: Links
+    url: /links
   - title: About
     url: /about
   - title: Contact
