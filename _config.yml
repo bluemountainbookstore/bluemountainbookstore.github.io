@@ -27,6 +27,8 @@ tools:
 links:
   - title: About
     url: /about
+  - title: Contact
+    url: /contact
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
