@@ -13,7 +13,7 @@
               </header>
               <ol class="post-list">
                  <lh><h2><span class="bb">Recent News</span></h2></lh>
-                  {% for post in site.posts %}
+                  {% for post in site.posts | limit:3 %}
                   <li>
                     <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                         <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
