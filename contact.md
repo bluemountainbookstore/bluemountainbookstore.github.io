@@ -6,5 +6,5 @@ image:
   feature: exterior_right.jpg
 ---
 
-### Send us email
+### Send us an email
 <a id="mail" href="mailto:{{ site.owner.email }}"><span class="foot-link">todd@bluemountainbookstore.com</span></a>
