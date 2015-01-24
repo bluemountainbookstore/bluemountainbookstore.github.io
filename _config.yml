@@ -26,6 +26,8 @@ tools:
 links:
   - title: About
     url: /about
+  - title: Inventory
+    url: /inventory
   - title: Contact
     url: /contact
 
