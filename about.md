@@ -19,7 +19,7 @@ The bookstore's located in an old brick building.  Aaron Sommer built it in 1870
 
 All kinds of books on all kinds of subjects, from rare collectibles to trashy pulp fiction.  We'll gradually list select inventory online here in the form of a [rare book catalogue](https://www.ilab.org/eng/catalogs/index.html).
 
-### A Pseudoseussian Guide to Book Condition Terms.
+### A Pseudoseussian Guide to Book Condition Terms
 
 **New** means new.
 
