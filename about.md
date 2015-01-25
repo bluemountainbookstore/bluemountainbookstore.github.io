@@ -41,6 +41,6 @@ All kinds of books on all kinds of subjects, from rare collectibles to trashy pu
 
 This website rocks [Jekyll Bootstrap](http://jekyllbootstrap.com/) on [GitHub Pages](https://github.com/bluemountainbookstore/bluemountainbookstore.github.io) with a tweaked [Balzac](https://github.com/ColeTownsend/Balzac-for-Jekyll) theme.  It's geeky, but it's elegant, powerful and free.
 
-### The Author
+### The Bookseller
 
 I'm [this guy](https://www.facebook.com/whirlingvortices).
