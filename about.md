@@ -36,3 +36,11 @@ All kinds of books on all kinds of subjects, from rare collectibles to trashy pu
 **Reading Copy** barely qualifies as a book anymore, so read it quick and chuck it out the door -- just don't bring it back to the bookstore.
 
 **Fire Starter** isn't even good for reading, and it's hardly worth rhyming about.  Nevertheless, these books can serve a crucial role in your outdoor survival strategy.  Keep them dry -- or dry them out if you fished them out of a river or something -- and they'll keep you warm in an emergency situation.  They say books can change your life, but these books could save your life.  The covers may be bowed, ripped, chipped, cocked, bumped or altogether dumped.  Dust mites but no dust jacket.  Rampant foxing, highlighting, underlining, creasing throughout.  Waterstained, dampstained, Rorschachstained no doubt.  Crushed tails and dog-eared heads.  The text block may resemble an old Yellow Pages formerly strapped to a public telephone in the rain and currently carted around by a homeless guy who will reluctantly use it for toilet paper.  These books can also be used for target practice.
+
+### The Site
+
+This website rocks [Jekyll Bootstrap](http://jekyllbootstrap.com/) on [GitHub Pages](https://github.com/bluemountainbookstore/bluemountainbookstore.github.io) with a tweaked [Balzac](https://github.com/ColeTownsend/Balzac-for-Jekyll) theme.  It's geeky, but it's elegant, powerful and free.
+
+### The Author
+
+I'm [this guy](https://www.facebook.com/whirlingvortices).
