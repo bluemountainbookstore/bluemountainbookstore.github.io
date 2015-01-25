@@ -21,15 +21,11 @@ image:
     PO Box 872
     Union, OR  97883
 
-### Email
+### Online 
 
-<a id="mail" href="mailto:{{ site.owner.email }}">todd@bluemountainbookstore.com</a>
+**Email** <a id="mail" href="mailto:{{ site.owner.email }}">todd@bluemountainbookstore.com</a>
 
-### Twitter
+**Twitter** [bluemtnbooks](https://twitter.com/bluemtnbooks)
 
-[bluemtnbooks](https://twitter.com/bluemtnbooks)
-
-### Facebook
-
-[bluemtnbookstore](https://www.facebook.com/bluemtnbookstore)
+**Facebook** [bluemtnbookstore](https://www.facebook.com/bluemtnbookstore)
 <p>
