@@ -8,6 +8,6 @@ image:
   feature: exterior_right.jpg
 ---
 
-[LG Brewskis](http://visitunionor.org/lg-brewskis) is the local pub.
+[LG Brewskis](https://www.facebook.com/pages/LG-Brewskis/202717269745877) is the local pub.
 
-[City of Union Chamber of Commerce](http://visitunionor.org) is under construction.
+[The City of Union Chamber of Commerce](https://www.facebook.com/pages/City-of-Union-OR-Chamber-of-Commerce/199610620135779) has a long name.
