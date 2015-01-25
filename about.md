@@ -7,9 +7,11 @@ image:
   feature: exterior_right.jpg
 ---
 
-### The Name
+### The Names
 
-The city of Union is situated inside Eastern Oregon's Grande Ronde Valley, the largest enclosed valley in the US.  The Blue Mountains form the western edge of this great circle, and according to reliable sources they're called the Blue Mountains on account of their color.  They look blue sometimes.
+The city of Union, named after the north side of the Civil War, is situated inside Eastern Oregon's Grande Ronde Valley, the largest enclosed valley in the US.  The Blue Mountains form the western edge of this great circle, and according to reliable sources they're called the Blue Mountains on account of their color.  They look blue sometimes.
+
+I almost called the bookstore [Ellipsis](/articles/ellipsis-what-happened/).
 
 ### The Building
 

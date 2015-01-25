@@ -10,4 +10,4 @@ image:
 
 ### Too Clever
 
-Ellipsis is a cool name, but more suited to a club in the city than a bookstore in the country.
+Ellipsis is a cool name, but more suited to a club in the city than a bookstore in a small town.  Sure did like that logo, though.
