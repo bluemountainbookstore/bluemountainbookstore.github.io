@@ -16,4 +16,6 @@ image:
 
 [Knitkabob](http://www.knitkabob.com/) is our local yarn shop.  Sit down and knit something.
 
+[Union Bagel Shop](http://unionbagelshop.com/) makes bagels, sandwiches and all kinds of baked goods daily.
+
 [Union Market](http://union-market.com/) is the local market, featuring some good deals and a quality meat department.
