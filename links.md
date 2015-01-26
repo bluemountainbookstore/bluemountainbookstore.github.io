@@ -14,6 +14,8 @@ image:
 
 [Union Drug Co. & Soda Fountain](https://www.facebook.com/pages/Union-Drug-Co-Soda-Fountain/566067123452150) is our local prescription drug dealer and provider of delicious food.
 
+[The Historic Union Hotel](http://thehistoricunionhotel.com/) was the first place I visited in Union.  I recommend staying in the Davis Bro.'s Room.
+
 [Knitkabob](http://www.knitkabob.com/) is our local yarn shop.  Sit down and knit something.
 
 [Union Bagel Shop](http://unionbagelshop.com/) makes bagels, sandwiches and all kinds of baked goods daily.
