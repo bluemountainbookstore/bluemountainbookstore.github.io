@@ -8,7 +8,7 @@ image:
   feature: exterior_right.jpg
 ---
 
-[LG Brewskis](https://www.facebook.com/pages/LG-Brewskis/202717269745877) is the local pub.  They host the only public pool table within a 15 mile radius.
+[LG Brewskis](https://www.facebook.com/pages/LG-Brewskis/202717269745877) is the local pub.  They host the only public pool table within a 15-mile radius.
 
 [The City of Union Chamber of Commerce](https://www.facebook.com/pages/City-of-Union-OR-Chamber-of-Commerce/199610620135779) has a long name.
 
