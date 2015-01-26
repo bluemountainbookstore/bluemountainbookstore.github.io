@@ -8,7 +8,7 @@ image:
   feature: exterior_right.jpg
 ---
 
-[LG Brewskis](https://www.facebook.com/pages/LG-Brewskis/202717269745877) is the local pub.  They host the only public pool table within a 15-mile radius, which really tells you something about our island of a city.  Their featured microwbrew on tap is [Yellow Snow IPA](http://www.beeradvocate.com/beer/profile/132/43969/).  Hoppy as all get-out.
+[LG Brewskis](https://www.facebook.com/pages/LG-Brewskis/202717269745877) is the local pub.  They host the only public pool table within a 15-mile radius, which really tells you something about our island of a city.  Their featured microwbrew on tap is Rogue Ales' hoppy [Yellow Snow IPA](http://www.beeradvocate.com/beer/profile/132/43969/).
 
 [The City of Union Chamber of Commerce](https://www.facebook.com/pages/City-of-Union-OR-Chamber-of-Commerce/199610620135779) has a long name, and I'm the 2015 President.  We're working on next year's Grassroots Festival and a new flea market, as well as some downtown improvements and a dog park.
 
