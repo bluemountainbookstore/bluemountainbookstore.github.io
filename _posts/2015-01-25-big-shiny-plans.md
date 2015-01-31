@@ -30,4 +30,4 @@ FCC rule Part 15 allows AM broadcasting at 100mW without a license, and since mo
 
 ### A Marijuana Retailer
 
-Under Measure 91, [recreational marijuana](http://www.oregon.gov/olcc/marijuana/Pages/Frequently-Asked-Questions.aspx) becomes legal under Oregon law starting July 1, 2015.  By January 4, 2016, the OCC must begin accepting licenses for commercial growing, processing, wholesale and retail operations statewide.  Further details are a complete mystery at this point, and trustworthy insiders hint that member of the OLCC are completely baked right now.  We intend to sell from our basement, reachable through a hatch on the sidewalk.
+Under Measure 91, [recreational marijuana](http://www.oregon.gov/olcc/marijuana/Pages/Frequently-Asked-Questions.aspx) becomes legal under Oregon law starting July 1, 2015.  By January 4, 2016, the OCC must begin accepting licenses for commercial growing, processing, wholesale and retail operations statewide.  Further details are a complete mystery at this point, and trustworthy insiders hint that members of the OLCC are pretty baked right now.  We intend to sell from our basement, reachable through a hatch on the sidewalk.

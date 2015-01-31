@@ -3,9 +3,9 @@ layout: post
 title: What Happened to Ellipsis?
 description: "I could've sworn this bookstore was going to be called Ellipsis..."
 categories: articles
-coments: true
+comments: true
 image:
-        feature: ellipsis_logo.jpg
+    feature: ellipsis_logo.jpg
 ---
 
 ### Too Clever

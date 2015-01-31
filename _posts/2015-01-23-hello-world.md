@@ -3,9 +3,9 @@ layout: post
 title: Hello, World
 description: "A bookstore is coming soon."
 categories: articles
-coments: true
+comments: true
 image:
-        feature: interior_1.jpg
+    feature: interior_1.jpg
 ---
 
 > What I say is, a town isn't a town without a bookstore. It may call itself a town, but unless it's got a bookstore it knows it's not fooling a soul.
