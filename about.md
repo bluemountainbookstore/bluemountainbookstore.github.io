@@ -29,20 +29,3 @@ This website rocks [Jekyll Bootstrap](http://jekyllbootstrap.com/) on [GitHub Pa
 
 I'm [this guy](https://www.facebook.com/whirlingvortices).
 
-### A Pseudoseussian Guide to Book Condition Terms
-
-**New** means new.
-
-**As New** is new to you, and if I never told you, you'd swear it was new too.
-
-**Fine** shows its age but no damage, and like a fine wine it may increase in value more than average.
-
-**Near Fine** is strong but shows one minor flaw, like a superhero with a weakness, a great fighter with a glass jaw.
-
-**Very Good** is nice, but some jerk obviously read it once or twice.
-
-**Good** ain't so great after all, meaning one flaw that's big or a few that're small.
-
-**Reading Copy** barely qualifies as a book anymore, so read it quick and chuck it out the door -- just don't bring it back to the bookstore.
-
-**Fire Starter** isn't even good for reading, and it's hardly worth rhyming about.  Nevertheless, these books can serve a crucial role in your outdoor survival kit.  Keep them dry -- or dry them out if you fished them out of a river or something -- and they'll keep you warm in an emergency situation.  They say books can change your life, but these books could save your life.  The covers may be bowed, ripped, chipped, cocked, bumped or altogether dumped.  Dust mites but no dust jacket.  Rampant foxing, highlighting, underlining, creasing throughout.  Waterstained, dampstained, Rorschachstained no doubt.  Crushed tails and dog-eared heads.  The text block may resemble an old Yellow Pages formerly strapped to a public telephone in the rain and currently carted around by a homeless guy who will reluctantly use it for toilet paper.  These books can also be used for target practice.
